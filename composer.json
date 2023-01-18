@@ -1,0 +1,12 @@
+{
+  "name": "328/pets",
+  "authors": [
+  {
+    "name": "Joe Shmo",
+    "email": "jshmo@greenriver.edu"
+  }
+],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
